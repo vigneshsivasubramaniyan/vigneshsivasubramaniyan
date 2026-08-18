@@ -58,7 +58,15 @@ I build complete environments rather than isolated demos — from infrastructure
 
 ### AI Engineering
 
-`Python` `LangChain` `LangGraph` `RAG` `Qdrant` `Ollama` `LiteLLM`
+<img src="https://skillicons.dev/icons?i=python" height="48"/>
+  <img src="./.github/vigneshsivasubramaniyan/assets/icons/langchain.svg" height="48"/>
+  <img src="./.github/profile/icons/langgraph.svg" height="48"/>
+  <img src="./.github/profile/icons/rag.svg" height="48"/>
+  <img src="./.github/profile/icons/qdrant.svg" height="48"/>
+  <img src="./.github/profile/icons/ollama.svg" height="48"/>
+  <img src="./.github/profile/icons/litellm.svg" height="48"/>
+
+`Python` `LangChain` `LangGraph` `LangFuse` `Qdrant` `Ollama` `LiteLLM` ``vLLM``
 
 </div>
 
