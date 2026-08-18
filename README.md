@@ -1,10 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:09090B,45:17112B,75:312E81,100:581C87&height=240&section=header&text=VIGNESHWARAN%20SIVASUBRAMANIYAN&fontSize=38&fontColor=FFFFFF&animation=fadeIn&fontAlignY=42&desc=CLOUD%20%7C%20DEVOPS%20%7C%20KUBERNETES%20%7C%20AI%20ENGINEERING&descAlignY=63&descSize=16"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=blur&color=0:0F172A,50:1E293B,100:312E81&height=220&section=header&text=VIGNESHWARAN%20SIVASUBRAMANIYAN&fontSize=36&fontColor=FFFFFF&fontAlignY=42&desc=Cloud%20%7C%20DevOps%20%7C%20Kubernetes%20%7C%20AI%20Engineering&descAlignY=62&descSize=16"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3200&pause=1600&color=C4B5FD&center=true&vCenter=true&width=820&lines=Cloud+Infrastructure+%7C+DevOps+Automation;AWS+%7C+Terraform+%7C+Kubernetes+%7C+OpenShift;Jenkins+%7C+GitHub+Actions+%7C+Docker;Building+AI-powered+DevOps+systems" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=25&duration=3200&pause=1600&color=ffff09&center=true&vCenter=true&width=820&lines=Cloud+Infrastructure+%7C+DevOps+Automation;AWS+%7C+Terraform+%7C+Kubernetes+%7C+OpenShift;Jenkins+%7C+GitHub+Actions+%7C+Docker;Building+AI-powered+DevOps+systems" alt="Typing SVG"/>
 
 <br/><br/>
 
