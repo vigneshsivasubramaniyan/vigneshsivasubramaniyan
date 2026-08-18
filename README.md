@@ -1,308 +1,226 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=180&section=header&text=VIGNESHWARAN%20SIVASUBRAMANIYAN&fontSize=38&fontColor=FFFFFF&fontAlignY=45&desc=CLOUD%20%7C%20DEVOPS%20%7C%20KUBERNETES%20%7C%20AI%20ENGINEERING&descAlignY=68&descSize=16"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:09090B,45:17112B,75:312E81,100:581C87&height=240&section=header&text=VIGNESHWARAN%20SIVASUBRAMANIYAN&fontSize=38&fontColor=FFFFFF&animation=fadeIn&fontAlignY=42&desc=CLOUD%20%7C%20DEVOPS%20%7C%20KUBERNETES%20%7C%20AI%20ENGINEERING&descAlignY=63&descSize=16"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3500&pause=1200&color=A78BFA&center=true&vCenter=true&width=800&lines=Cloud+Infrastructure+%7C+DevOps+%7C+Platform+Engineering;Kubernetes+%7C+OpenShift+%7C+Terraform+%7C+AWS;CI%2FCD+Automation+%7C+Observability+%7C+AI+Engineering" alt="Engineering Focus"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3200&pause=1600&color=C4B5FD&center=true&vCenter=true&width=820&lines=Cloud+Infrastructure+%7C+DevOps+Automation;AWS+%7C+Terraform+%7C+Kubernetes+%7C+OpenShift;Jenkins+%7C+GitHub+Actions+%7C+Docker;Building+AI-powered+DevOps+systems" alt="Typing SVG"/>
 
 <br/><br/>
 
 <a href="https://github.com/vigneshsivasubramaniyan">
-<img src="https://img.shields.io/badge/GitHub-vigneshsivasubramaniyan-161B22?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-vigneshsivasubramaniyan-161B22?style=flat-square&logo=github&logoColor=white"/>
 </a>
-
+&nbsp;
 <a href="https://in.linkedin.com/in/vigneshwaran-sivasubramaniyan">
-<img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Vigneshwaran%20Sivasubramaniyan-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
-
+&nbsp;
 <a href="https://vignesh.madrasmic.in">
-<img src="https://img.shields.io/badge/Portfolio-vignesh.madrasmic.in-6E40C9?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
-<a href="mailto:vigneshsivasubramaniyan@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-vignesh.madrasmic.in-7C3AED?style=flat-square&logo=googlechrome&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-## About Me
+## About
 
-I am a **Cloud & DevOps Engineer** focused on infrastructure automation, cloud platforms, container orchestration and AI-assisted engineering.
+**Cloud & DevOps Engineer** focused on building, automating and operating infrastructure across **AWS, Docker, Kubernetes and OpenShift**.
 
-My engineering background spans **VMware infrastructure, Linux, Docker, Kubernetes, OpenShift, AWS, Terraform, Ansible and CI/CD**, with a current focus on building production-inspired cloud-native platforms.
+My background spans enterprise infrastructure and virtualization, with hands-on engineering across **Terraform, Ansible, Jenkins, GitHub Actions, observability and AI/RAG systems**.
 
-I use hands-on projects and homelab environments to design, automate, observe and troubleshoot real-world infrastructure workflows.
+I build complete environments rather than isolated demos — from infrastructure provisioning and CI/CD to deployment, monitoring and AI-assisted troubleshooting.
 
 ---
 
 ## Technology Stack
 
+<div align="center">
+
 ### Cloud & Infrastructure
 
-<p>
 <img src="https://skillicons.dev/icons?i=aws,linux,terraform,ansible"/>
-</p>
 
-`AWS` `EC2` `VPC` `IAM` `S3` `Terraform` `Ansible` `Linux`
+`AWS` `Terraform` `Ansible` `Linux` `VMware` `vSphere`
 
-### Containers & Orchestration
+### Containers & Platform
 
-<p>
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,openshift"/>
-</p>
 
-`Docker` `Kubernetes` `OpenShift` `K3s` `Helm` `Container Platforms`
+`Docker` `Kubernetes` `OpenShift` `K3s` `Helm`
 
-### CI/CD & Automation
+### CI/CD & Observability
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,jenkins,python"/>
-</p>
+<img src="https://skillicons.dev/icons?i=git,github,jenkins,prometheus,grafana"/>
 
-`Git` `GitHub` `Jenkins` `GitHub Actions` `Python` `CI/CD`
-
-### Observability
-
-<p>
-<img src="https://skillicons.dev/icons?i=prometheus,grafana"/>
-</p>
-
-`Prometheus` `Grafana` `cAdvisor` `Node Exporter` `Metrics` `Monitoring`
+`Git` `GitHub` `Jenkins` `GitHub Actions` `Prometheus` `Grafana`
 
 ### AI Engineering
 
-`LangChain` `LangGraph` `RAG` `Qdrant` `Ollama` `LiteLLM` `Embeddings` `LLM Applications` `AI Agents`
-
-### Virtualization & Networking
-
-`VMware vSphere` `ESXi` `vCenter` `PowerCLI` `Cloudflare` `Nginx` `DNS` `TLS` `Reverse Proxy`
-
----
-
-# Featured Engineering Projects
-
-## 01 — Enterprise DevOps CI/CD Platform
-
-A production-inspired deployment platform demonstrating multiple approaches to delivering the same application from source control to runtime.
-
-### Deployment Architecture
-
-```text
-                           GitHub
-                             │
-                ┌────────────┴────────────┐
-                │                         │
-                ▼                         ▼
-             Jenkins               GitHub Actions
-                │                         │
-                └────────────┬────────────┘
-                             │
-                             ▼
-                           Docker
-                             │
-              ┌──────────────┴──────────────┐
-              │                             │
-              ▼                             ▼
-       Docker Desktop                    AWS Cloud
-                                            │
-                                        Terraform
-                                            │
-                                           EC2
-                                            │
-                                         Docker
-                                            │
-                                        Application
-```
-
-### What it demonstrates
-
-* Git-based development workflow
-* Jenkins CI/CD
-* GitHub Actions
-* Docker image creation
-* Automated deployments
-* Terraform infrastructure provisioning
-* AWS EC2 deployment
-* Repeatable infrastructure
-* Multiple deployment strategies
-
-**Stack:** `GitHub` `Jenkins` `GitHub Actions` `Docker` `Terraform` `AWS EC2` `Linux`
-
----
-
-## 02 — DevOps Homelab Platform
-
-A self-hosted engineering environment used to build and operate production-inspired infrastructure, DevOps, networking, observability and AI workloads.
-
-### Platform
-
-```text
-                         Internet
-                            │
-                            ▼
-                       Cloudflare
-                          Tunnel
-                            │
-                            ▼
-                      Nginx Proxy
-                          Manager
-                            │
-          ┌─────────────────┼─────────────────┐
-          │                 │                 │
-          ▼                 ▼                 ▼
-       DevOps              AI             Services
-          │                 │                 │
-       Jenkins           Ollama          Nextcloud
-       Docker            LiteLLM         Jellyfin
-       GitHub             Qdrant             n8n
-                          OpenWebUI
-          │                 │
-          └─────────────────┼─────────────────┘
-                            │
-                            ▼
-                    Prometheus + Grafana
-```
-
-### What it demonstrates
-
-* Containerized infrastructure
-* Secure external access
-* Reverse proxy and DNS
-* Cloudflare Tunnel
-* CI/CD automation
-* Self-hosted AI infrastructure
-* Vector database
-* LLM gateway
-* Workflow automation
-* Infrastructure monitoring
-* GPU monitoring
-
-**Stack:** `Docker` `Linux` `Cloudflare` `Nginx` `Jenkins` `Prometheus` `Grafana` `Ollama` `Qdrant` `LiteLLM`
-
----
-
-## 03 — AI DevOps Copilot
-
-An AI engineering platform designed to combine operational data, engineering documentation and LLM reasoning to assist with DevOps troubleshooting.
-
-### Architecture
-
-```text
-                  Engineer
-                     │
-                     ▼
-              AI DevOps Copilot
-                     │
-              LangChain / LangGraph
-                     │
-       ┌─────────────┼─────────────┐
-       │             │             │
-       ▼             ▼             ▼
-    Jenkins        GitHub      Kubernetes
-       │             │             │
-       └─────────────┼─────────────┘
-                     │
-                     ▼
-                Prometheus
-                     │
-                     ▼
-                RAG Retrieval
-                     │
-                     ▼
-                  Qdrant
-                     │
-                     ▼
-                    LLM
-                     │
-                     ▼
-             Analysis / RCA
-```
-
-### What it demonstrates
-
-* Jenkins log analysis
-* Kubernetes troubleshooting
-* GitHub change analysis
-* Prometheus metric analysis
-* Internal documentation retrieval
-* RAG-based troubleshooting
-* Incident summarization
-* Root-cause analysis assistance
-* AI-assisted DevOps workflows
-
-**Stack:** `Python` `LangChain` `LangGraph` `Qdrant` `RAG` `Ollama` `LiteLLM` `Jenkins` `Kubernetes` `Prometheus`
-
----
-
-## What I'm Working On
-
-```text
-AWS
- │
- ├── Infrastructure
- ├── Terraform
- └── Cloud Architecture
-       │
-       ▼
-DevOps
- │
- ├── GitHub Actions
- ├── Jenkins
- └── CI/CD
-       │
-       ▼
-Kubernetes
- │
- ├── Kubernetes
- ├── OpenShift
- └── Platform Engineering
-       │
-       ▼
-Observability
- │
- ├── Prometheus
- └── Grafana
-       │
-       ▼
-AI Engineering
- │
- ├── RAG
- ├── LangChain
- ├── LangGraph
- └── AI DevOps
-```
-
----
-
-## GitHub Activity
-
-<div align="center">
-
-<a href="https://github.com/vigneshsivasubramaniyan">
-<img src="https://github-readme-stats.vercel.app/api?username=vigneshsivasubramaniyan&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=C9D1D9&rank_icon=github" height="170"/>
-</a>
-
-<a href="https://github.com/vigneshsivasubramaniyan">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vigneshsivasubramaniyan&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" height="170"/>
-</a>
+`Python` `LangChain` `LangGraph` `RAG` `Qdrant` `Ollama` `LiteLLM`
 
 </div>
 
 ---
 
+# Featured Projects
+
+## 01 · Enterprise DevOps CI/CD Platform
+
+**One application deployed through multiple CI/CD and infrastructure strategies.**
+
+```text
+                    GitHub
+                       │
+             ┌─────────┴─────────┐
+             │                   │
+             ▼                   ▼
+          Jenkins          GitHub Actions
+             │                   │
+             └─────────┬─────────┘
+                       ▼
+                     Docker
+                       │
+              ┌────────┴────────┐
+              │                 │
+              ▼                 ▼
+       Docker Desktop        Terraform
+                                │
+                                ▼
+                              AWS EC2
+                                │
+                                ▼
+                              Docker
+```
+
+**Implemented**
+
+`Jenkins → Docker Desktop`
+
+`GitHub Actions → Docker Desktop`
+
+`GitHub Actions → Terraform → AWS EC2 → Docker`
+
+**Stack:** `GitHub` `Jenkins` `GitHub Actions` `Docker` `Terraform` `AWS`
+
+---
+
+## 02 · DevOps Homelab Platform
+
+**A self-hosted engineering environment for DevOps, cloud-native infrastructure, observability and AI workloads.**
+
+```text
+                         Internet
+                            │
+                         Cloudflare
+                            │
+                       Reverse Proxy
+                            │
+          ┌─────────────────┼─────────────────┐
+          │                 │                 │
+       DevOps               AI            Services
+          │                 │                 │
+       Jenkins           Ollama          Nextcloud
+       Docker            Qdrant          Jellyfin
+       CI/CD             LiteLLM            n8n
+                         OpenWebUI
+          │                 │
+          └─────────────────┼─────────────────┘
+                            │
+                     Prometheus
+                            │
+                         Grafana
+```
+
+**Focus:** containerization, secure networking, CI/CD, local LLM infrastructure, RAG, monitoring and GPU observability.
+
+**Stack:** `Docker` `Cloudflare` `Nginx` `Jenkins` `Prometheus` `Grafana` `Ollama` `Qdrant` `LiteLLM`
+
+---
+
+## 03 · AI DevOps Copilot
+
+**AI-assisted troubleshooting system combining DevOps telemetry, documentation and LLM reasoning.**
+
+```text
+              Engineer
+                  │
+                  ▼
+          AI DevOps Copilot
+                  │
+          LangChain / LangGraph
+                  │
+       ┌──────────┼──────────┐
+       │          │          │
+       ▼          ▼          ▼
+    Jenkins     GitHub   Kubernetes
+       │          │          │
+       └──────────┼──────────┘
+                  │
+             Prometheus
+                  │
+                  ▼
+              Qdrant RAG
+                  │
+                  ▼
+                 LLM
+                  │
+                  ▼
+           RCA / Analysis
+```
+
+**Designed for:** Jenkins failure analysis, Kubernetes troubleshooting, Git change analysis, Prometheus metrics and internal documentation retrieval.
+
+**Stack:** `Python` `LangChain` `LangGraph` `Qdrant` `RAG` `Ollama` `Jenkins` `Kubernetes` `Prometheus`
+
+---
+
+## Current Focus
+
+```text
+AWS + Terraform
+       │
+       ▼
+CI/CD + GitHub Actions
+       │
+       ▼
+Kubernetes + OpenShift
+       │
+       ▼
+Observability
+       │
+       ▼
+AI / RAG / Agents
+       │
+       ▼
+AI-assisted DevOps
+```
+
+Currently deepening skills in:
+
+`AWS` `Terraform` `GitHub Actions` `Kubernetes` `OpenShift` `Platform Engineering` `RAG` `LangChain` `LangGraph`
+
+---
+
 <div align="center">
 
-### Building Infrastructure. Automating Operations. Engineering with AI.
+## Build · Automate · Observe · Improve
 
 <a href="https://github.com/vigneshsivasubramaniyan">
-<img src="https://img.shields.io/badge/Explore%20My%20Repositories-161B22?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-161B22?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://in.linkedin.com/in/vigneshwaran-sivasubramaniyan">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://vignesh.madrasmic.in">
+<img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=80&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:581C87,45:312E81,75:17112B,100:09090B&height=120&section=footer"/>
 
 </div>
