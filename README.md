@@ -41,7 +41,8 @@ My current direction is **Cloud-Native Platform Engineering + AI-powered DevOps*
 ## Technology Stack
 <table>
 <tr>
-<td width="30%" valign="top">
+<td width="auto" valign="top" align="center">
+
 ### Cloud & Infrastructure
 
 <p>
@@ -51,7 +52,8 @@ My current direction is **Cloud-Native Platform Engineering + AI-powered DevOps*
 `AWS` `Terraform` `Ansible` `Linux` `VMware` `vSphere`
 </td>
 
-<td width="30%" valign="top">
+<td width="auto" valign="top" align="center">
+
 ### Containers & Platform
 
 <p>
@@ -61,7 +63,8 @@ My current direction is **Cloud-Native Platform Engineering + AI-powered DevOps*
 `Docker` `Kubernetes` `OpenShift` `K3s` `Helm`
 </td>
 
-<td width="30%" valign="top">
+<td width="auto" valign="top" align="center">
+
 ### CI/CD & Observability
 
 <p>
@@ -71,7 +74,8 @@ My current direction is **Cloud-Native Platform Engineering + AI-powered DevOps*
 `Git` `GitHub` `Jenkins` `GitHub Actions` `Prometheus` `Grafana`
 </td>
 
-<td width="30%" valign="top">
+<td width="auto" valign="top" align="center">
+
 ### AI Engineering
 
 <img src="https://skillicons.dev/icons?i=python" height="48"/>
@@ -85,7 +89,7 @@ My current direction is **Cloud-Native Platform Engineering + AI-powered DevOps*
 `Python` `LangChain` `LangGraph` `LangFuse` `Qdrant` `Ollama` `LiteLLM` ``vLLM``
 </td>
 
-<td width="33%" valign="top">
+<td width="auto" valign="top" align="center">
 
 </td>
 </tr>
