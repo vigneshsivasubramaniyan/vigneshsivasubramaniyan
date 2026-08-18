@@ -87,9 +87,7 @@ My current direction is **Cloud-Native Platform Engineering + AI-powered DevOps*
   <img src="./icons/litellm.svg" height="48"/>
 
 `Python` `LangChain` `LangGraph` `LangFuse` `Qdrant` `Ollama` `LiteLLM` ``vLLM``
-</td>
 
-<td width="auto" valign="top" align="center">
 
 </td>
 </tr>
